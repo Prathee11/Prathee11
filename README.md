@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pratheebha Thiyagarajan
+- 👋 Hi! I’m Pratheebha Thiyagarajan
 - 🥰 I’m interested in learning codes
 - 📚I’m currently pursuing my bachelor degree in Information Technology
-- 🤝I’m looking to collaborate on coding beginners
+- 🤝I’m looking to collaborate on begineer coders
 - 📫 You can reach me on pratheebha1111@gmail.com
 
 <!---
