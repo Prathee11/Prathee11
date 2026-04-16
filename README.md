@@ -22,8 +22,6 @@ From analyzing data to building intelligent systems  <br>📊 Data Analytics | �
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prathee11&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Prathee11&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
