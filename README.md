@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! This is Pratheebha Thiyagarajan   <br>
-From analyzing data to building intelligent systems  <br>📊 Data Analytics | 🤖 AI/ML (upcoming)  <br>Consistency + curiosity = growth
+From analyzing data to building intelligent systems  <br>📊 Data Analytics | 🤖 AI/ML (upcoming)  <br>Consistency + Curiosity = Growth
 
 
 ## 🌐 Socials:
