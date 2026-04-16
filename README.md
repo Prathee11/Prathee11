@@ -1,8 +1,4 @@
-- 👋 Hi! I’m Pratheebha Thiyagarajan
-- 🥰 I’m interested in learning codes
-- 📚I’m currently pursuing my bachelor degree in Information Technology
-- 🤝I’m looking to collaborate on beginner coders
-- 📫 You can reach me on pratheebha1111@gmail.com
+
 
 <!---
 Prathee11/Prathee11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
